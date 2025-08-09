@@ -29,4 +29,3 @@ With the growing number of cyber threats, understanding how network traffic flow
 ## Conclusion  
 The Basic Network Sniffer project provided practical exposure to network traffic analysis, enhancing my ability to detect anomalies and monitor data security. Proactively analyzing network traffic is key to strengthening cybersecurity and preventing potential threats.
 
-MONITOR. ANALYZE. SECURE.
